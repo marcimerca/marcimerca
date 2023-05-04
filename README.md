@@ -11,4 +11,7 @@ I'm Marcello Mercanzin.
 - <code>Javascript</code>
 - <code>HTML</code>
 - <code>CSS</code>
+- <code>Vuetify</code>
+- <code>Git</code>
+- <code>GitHub</code>
 
