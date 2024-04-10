@@ -8,6 +8,8 @@ I'm Marcello Mercanzin.
 
 
 # Skills
+- <code>Angular</code>
+- <code>Typescript</code>
 - <code>Javascript</code>
 - <code>HTML</code>
 - <code>CSS</code>
