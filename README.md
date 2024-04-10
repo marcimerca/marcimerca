@@ -2,7 +2,7 @@
 
 I'm Marcello Mercanzin.
 
-- 🌱 I’m currently learning <code>Vue.js</code>
+
 - 📫 How to reach me: marcello.mercanzin@gmail.com
 - ⚡ Fun fact: semi-professional padel player 🎾
 
